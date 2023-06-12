@@ -60,7 +60,7 @@ h2 {
 }
 
 body {
-    background-image: url(assets/medium.jpg);
+    background-image: url(medium.jpg);
     background-size: cover;
     background-repeat: inherit;
     width:100%;
